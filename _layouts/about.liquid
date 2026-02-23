@@ -8,12 +8,13 @@ layout: default
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}        
       {% else %}
-        {{ site.title }}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
       {% endif %}
       {% if site.chinese_first_name and site.chinese_last_name %}
           <span class="chinese-name">
             ({{ site.chinese_last_name }}
-            {{ site.chinese_first_name }})
+            <span class="font-weight-bold">{{ site.chinese_first_name }}</span>)
           </span>
       {% endif %}
     </h1>
