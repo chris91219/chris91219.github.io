@@ -451,13 +451,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%63%68%72%69%73%77%65%6E%68%61%6F.%6C%69@%6D%61%69%6C.%75%74%6F%72%6F%6E%74%6F.%63%61", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
