@@ -9,7 +9,8 @@ layout: default
         {{ site.last_name }}
         {% if site.chinese_first_name and site.chinese_last_name %}
           <span class="chinese-name">
-            ({{ site.chinese_last_name }} {{ site.chinese_first_name }})
+            ({{ site.chinese_last_name }}
+            {{ site.chinese_first_name }})
           </span>
         {% endif %}
       {% else %}
