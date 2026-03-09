@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-09'
 papers:
   rmaFOGEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Certifiable Boolean Reasoning Is Universal
     year: '2026'
   rmaFOGEAAAAJ:u-x6o8ySG0sC:
-    citations: 10
+    citations: 11
     title: 'Tackling the abstraction and reasoning corpus with vision transformers: the importance of 2d representation, positions, and objects'
     year: '2024'
   rmaFOGEAAAAJ:u5HHmVD_uO8C:
