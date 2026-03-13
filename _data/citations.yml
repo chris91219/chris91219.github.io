@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-13'
 papers:
   rmaFOGEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,6 +22,6 @@ papers:
     title: 'Tackling the abstraction and reasoning corpus with vision transformers: the importance of 2d representation, positions, and objects'
     year: '2024'
   rmaFOGEAAAAJ:u5HHmVD_uO8C:
-    citations: 112
+    citations: 115
     title: 'Llms and the abstraction and reasoning corpus: Successes, failures, and the importance of object-based representations'
     year: '2023'
