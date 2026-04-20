@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-20'
 papers:
   rmaFOGEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,6 +22,6 @@ papers:
     title: Certifiable Boolean Reasoning Is Universal
     year: '2026'
   rmaFOGEAAAAJ:u5HHmVD_uO8C:
-    citations: 116
+    citations: 117
     title: 'Llms and the abstraction and reasoning corpus: Successes, failures, and the importance of object-based representations'
     year: '2023'
