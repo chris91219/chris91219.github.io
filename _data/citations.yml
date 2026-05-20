@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-20'
 papers:
   rmaFOGEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Self-Supervised Transformers as Iterative Solution Improvers for Constraint Satisfaction
     year: '2025'
   rmaFOGEAAAAJ:qjMakFHDy7sC:
-    citations: 0
+    citations: 1
     title: Certifiable Boolean Reasoning Is Universal
     year: '2026'
   rmaFOGEAAAAJ:u5HHmVD_uO8C:
