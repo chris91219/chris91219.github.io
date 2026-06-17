@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-17'
 papers:
   rmaFOGEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,12 +9,16 @@ papers:
     citations: 0
     title: End-to-End Synthesis of Neural Programs in Weight Space
     year: Unknown Year
+  rmaFOGEAAAAJ:IjCSPb-OGe4C:
+    citations: 6
+    title: 'LLMS and the abstraction and reasoning corpus: successes, failures, and the importance of object-based representations. arXiv'
+    year: '2023'
   rmaFOGEAAAAJ:UeHWp8X0CEIC:
-    citations: 10
+    citations: 13
     title: 'Tackling the abstraction and reasoning corpus with vision transformers: the importance of 2d representation, positions, and objects'
     year: '2024'
   rmaFOGEAAAAJ:d1gkVwhDpl0C:
-    citations: 3
+    citations: 4
     title: Self-Supervised Transformers as Iterative Solution Improvers for Constraint Satisfaction
     year: '2025'
   rmaFOGEAAAAJ:qjMakFHDy7sC:
@@ -22,6 +26,6 @@ papers:
     title: Certifiable Boolean Reasoning Is Universal
     year: '2026'
   rmaFOGEAAAAJ:u5HHmVD_uO8C:
-    citations: 119
+    citations: 120
     title: 'Llms and the abstraction and reasoning corpus: Successes, failures, and the importance of object-based representations'
     year: '2023'
