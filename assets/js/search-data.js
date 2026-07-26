@@ -384,16 +384,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-gave-an-invited-talk-on-our-paper-certifiable-boolean-reasoning-is-universal-with-hrad-ghoukasian-mcmaster-university-as-part-of-the-fields-institute-s-mathematical-ai-seminar-talk-details",
+          title: 'Gave an invited talk on our paper Certifiable Boolean Reasoning Is Universal with...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-structure-aware-graph-hypernetworks-for-neural-program-synthesis-was-published-at-iclr-2026-view-the-poster",
+          title: 'Our paper Structure-Aware Graph Hypernetworks for Neural Program Synthesis was published at ICLR...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-received-an-icml-2026-gold-reviewer-recognition-for-reviewing-service",
+          title: 'Received an ICML 2026 Gold Reviewer recognition for reviewing service.',
+          description: "",
+          section: "News",},{id: "news-our-new-paper-opine-world-solves-20-of-25-arc-agi-3-games-with-a-78-4-action-efficiency-score-read-the-project-blog-and-join-the-conversation-on-x-or-linkedin-opine-world-compared-with-gpt-5-6-sol-max-effort-on-five-arc-agi-3-games",
+          title: 'Our new paper, OPINE-World, solves 20 of 25 ARC-AGI-3 games with a 78.4...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
