@@ -238,6 +238,12 @@
       {% if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
+      {% if entry.openreview %}
+        <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">OpenReview</a>
+      {% endif %}
+      {% if entry.tmlr %}
+        <a href="{{ entry.tmlr }}" class="btn btn-sm z-depth-0" role="button">TMLR</a>
+      {% endif %}
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
@@ -257,6 +263,14 @@
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% if entry.x %}
+        <a href="{{ entry.x }}" class="btn btn-sm z-depth-0" role="button">
+          X{% if entry.x_note %} {{ entry.x_note }}{% endif %}
+        </a>
+      {% endif %}
+      {% if entry.linkedin %}
+        <a href="{{ entry.linkedin }}" class="btn btn-sm z-depth-0" role="button">LinkedIn</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
