@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Wenhao Li # the website title (if blank, full name will be used instead)
+title: Wenhao Li | PhD Researcher # the website title (if blank, full name will be used instead)
 first_name: Wenhao
 middle_name:
 last_name: Li
@@ -11,12 +11,13 @@ chinese_first_name: 文灏
 #contact_note: >
 #  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Wenhao Li is a PhD researcher in Mechanical and Industrial Engineering at the University of Toronto,
+  working on reasoning, neural program synthesis, and programmatic world models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Wenhao Li, University of Toronto, UofT, PhD researcher, neural program synthesis, programmatic world models, ARC-AGI # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 #icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 icon: favicon.ico
@@ -71,9 +72,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -284,8 +285,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Li]
+  first_name: [Wenhao, W.]
 
   style: apa
   locale: en
@@ -336,6 +337,7 @@ filtered_bibtex_keywords:
     hal,
     html,
     inspirehep_id,
+    linkedin,
     pdf,
     pmid,
     poster,
@@ -343,8 +345,12 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    tmlr,
     video,
     website,
+    x,
+    x_note,
+    openreview,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

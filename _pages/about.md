@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+description: Wenhao Li is a University of Toronto PhD researcher working on reasoning, neural program synthesis, and programmatic world models.
 subtitle:
 
 profile:
@@ -9,16 +10,19 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room BA8292</p>
-    <p>Bahen Centre for Information Technology</p>
-    <p>40 St George St, Toronto, ON M5S 2E4</p>
+    <address>
+      <span>Room BA8292</span>
+      <span>Bahen Centre for Information Technology</span>
+      <span>40 St George St</span>
+      <span>Toronto, ON M5S 2E4</span>
+    </address>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: true # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -27,6 +31,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m currently pursuing a PhD in **Mechanical and Industrial Engineering** at the **University of Toronto**, advised by **Prof. Scott Sanner** and **Prof. Elias Khalil**. I earned my **Bachelors in Computer Science (Honours)** from the **University of Waterloo**.
+I’m a PhD student in **Mechanical and Industrial Engineering** at the **University of Toronto**, advised by **Prof. Scott Sanner** and **Prof. Elias Khalil**. I hold a **Bachelor of Computer Science (Honours)** from the **University of Waterloo**.
 
-My research interests center on **reasoning**, with a current focus on **Neural Program Synthesis**—building learning-based systems that can induce and compose programs to solve structured, algorithmic tasks.
+I believe programs are taking on two new forms: **natural-language instructions executed by LLMs**, and **neural networks whose architectures and weights encode executable behavior**. I study how these programs can be learned from data through world modelling—and how they can recombine existing knowledge to generalize beyond training. Our work on [**Structure-Aware Graph Hypernetworks**](https://openreview.net/forum?id=x7zOzUwtR7) demonstrates one path forward.
+
+Before returning to academia, I co-founded **AIH Technology** and **Veriplum**, leading AI R&D and technology development. That builder’s perspective keeps my research ambitious, grounded, and executable.
