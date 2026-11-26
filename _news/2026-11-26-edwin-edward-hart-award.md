@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Received the **Edwin Edward Hart Graduate Award** from the University of Toronto’s Faculty of Applied Science & Engineering. Thank you to the donors for supporting my doctoral research.
+I received the **Edwin Edward Hart Graduate Award** from the University of Toronto’s Faculty of Applied Science & Engineering. Thank you to the donors for supporting my doctoral research.
