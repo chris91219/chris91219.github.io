@@ -36,3 +36,5 @@ I’m a PhD student in **Mechanical and Industrial Engineering** at the **Univer
 I believe programs are taking on two new forms: **natural-language instructions executed by LLMs**, and **neural networks whose architectures and weights encode executable behavior**. I study how these programs can be learned from data through world modelling—and how they can recombine existing knowledge to generalize beyond training. Our work on [**Structure-Aware Graph Hypernetworks**](https://openreview.net/forum?id=x7zOzUwtR7) demonstrates one path forward.
 
 Before returning to academia, I co-founded **AIH Technology** and **Veriplum**, leading AI R&D and technology development. That builder’s perspective keeps my research ambitious, grounded, and executable.
+
+In 2026, I received the **Edwin Edward Hart Graduate Award** from the University of Toronto’s Faculty of Applied Science & Engineering.
